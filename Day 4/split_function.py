@@ -1,0 +1,5 @@
+text1=input("Enter your day DOB : ")
+day,month,year=text1.split("/")
+print("day =",day)
+print("month =",month)
+print("year =",year)
